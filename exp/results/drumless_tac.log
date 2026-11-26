@@ -1,0 +1,113 @@
+whole {'condition': 'whole', 'tracker_f70_song': 0.031, 'tracker_f70_bars35_50': 0.016, 'beat_number_correct': 0.28, 'error_counts': {'-9': 2, '-8': 1, '-7': 28, '-6': 34, '-5': 5, '-3': 16, '-2': 45, '-1': 126, '0': 101, '1': 3}, 'pages_gate0.4': {'n': 5, 'ok': 0, 'early': 0, 'late': 0, 'manual': 5, 'missed': 0, 'ok_timing_error_beats': None}, 'all_bar_lines_gate0.4': {'n': 95, 'ok': 8, 'early': 0, 'late': 12, 'manual': 74, 'missed': 1, 'ok_timing_error_beats': {'median': 0.47, 'p95_abs': 0.678, 'max_abs': 0.697}}, 'all_bar_lines_no_gate': {'n': 95, 'ok': 32, 'early': 0, 'late': 52, 'manual': 11, 'missed': 0, 'ok_timing_error_beats': {'median': 0.428, 'p95_abs': 0.651, 'max_abs': 0.697}}}
+    4 manual None not stable by the 1-bar point
+    5 manual None 1-bar recheck failed
+    6 manual None not stable by the 1-bar point
+    7 manual None 1-bar recheck failed
+    9 late 2.786 fired at scheduled time
+    10 manual None 1-bar recheck failed
+    11 manual None not stable by the 1-bar point
+    12 manual None not stable by the 1-bar point
+    13 late 6.228 fired at scheduled time
+    14 manual None 1-bar recheck failed
+    15 manual None not stable by the 1-bar point
+    16 late 6.427 fired at scheduled time
+    17 manual None 1-bar recheck failed
+    18 manual None not stable by the 1-bar point
+    19 manual None not stable by the 1-bar point
+    20 manual None not stable by the 1-bar point
+    21 manual None not stable by the 1-bar point
+    22 manual None not stable by the 1-bar point
+    23 manual None not stable by the 1-bar point
+    24 late 7.512 fired at scheduled time
+    25 manual None 1-bar recheck failed
+    26 manual None not stable by the 1-bar point
+    27 manual None not stable by the 1-bar point
+    28 late 7.489 fired at scheduled time
+    29 manual None 1-bar recheck failed
+    30 manual None not stable by the 1-bar point
+    31 manual None 1-bar recheck failed
+    32 missed None never reached the 2-bar check
+    33 manual None not stable by the 1-bar point
+    34 manual None not stable by the 1-bar point
+    35 manual None not stable by the 1-bar point
+    37 manual None 1-bar recheck failed
+    39 manual None 1-bar recheck failed
+    41 manual None 1-bar recheck failed
+    42 manual None not stable by the 1-bar point
+    43 late 1.367 fired at scheduled time
+    44 manual None 1-bar recheck failed
+    45 manual None not stable by the 1-bar point
+    46 manual None not stable by the 1-bar point
+    47 manual None not stable by the 1-bar point
+    48 late 1.991 fired at scheduled time
+    49 manual None 1-bar recheck failed
+    50 manual None not stable by the 1-bar point
+    51 late 2.511 fired at scheduled time
+    52 manual None 1-bar recheck failed
+    53 manual None not stable by the 1-bar point
+    54 manual None 1-bar recheck failed
+    55 manual None not stable by the 1-bar point
+    56 manual None not stable by the 1-bar point
+    57 manual None not stable by the 1-bar point
+    58 manual None not stable by the 1-bar point
+    59 manual None 1-bar recheck failed
+    60 manual None not stable by the 1-bar point
+    61 manual None not stable by the 1-bar point
+    62 manual None not stable by the 1-bar point
+    63 manual None not stable by the 1-bar point
+    64 manual None not stable by the 1-bar point
+    66 manual None 1-bar recheck failed
+    67 manual None not stable by the 1-bar point
+    68 manual None not stable by the 1-bar point
+    69 manual None not stable by the 1-bar point
+    72 manual None 1-bar recheck failed
+    73 manual None not stable by the 1-bar point
+    74 manual None not stable by the 1-bar point
+    75 manual None not stable by the 1-bar point
+    76 manual None not stable by the 1-bar point
+    78 manual None 1-bar recheck failed
+    79 manual None not stable by the 1-bar point
+    80 manual None not stable by the 1-bar point
+    81 manual None not stable by the 1-bar point
+    82 manual None not stable by the 1-bar point
+    83 manual None not stable by the 1-bar point
+    84 manual None not stable by the 1-bar point
+    85 manual None not stable by the 1-bar point
+    86 late 1.304 fired at scheduled time
+    87 manual None 1-bar recheck failed
+    88 manual None not stable by the 1-bar point
+    89 manual None not stable by the 1-bar point
+    90 late 1.407 fired at scheduled time
+    91 manual None 1-bar recheck failed
+    92 manual None 1-bar recheck failed
+    93 manual None not stable by the 1-bar point
+    94 manual None not stable by the 1-bar point
+    95 manual None not stable by the 1-bar point
+    96 late 1.505 fired at scheduled time
+    97 manual None 1-bar recheck failed
+    98 late 1.447 fired at scheduled time
+bars35-50 {'condition': 'bars35-50', 'tracker_f70_song': 0.84, 'tracker_f70_bars35_50': 0.24, 'beat_number_correct': 0.788, 'error_counts': {'-3': 16, '-2': 43, '-1': 22, '0': 304, '1': 1}, 'pages_gate0.4': {'n': 5, 'ok': 4, 'early': 0, 'late': 1, 'manual': 0, 'missed': 0, 'ok_timing_error_beats': {'median': -0.055, 'p95_abs': 0.086, 'max_abs': 0.086}}, 'all_bar_lines_gate0.4': {'n': 95, 'ok': 71, 'early': 0, 'late': 6, 'manual': 18, 'missed': 0, 'ok_timing_error_beats': {'median': -0.052, 'p95_abs': 0.241, 'max_abs': 0.996}}, 'all_bar_lines_no_gate': {'n': 95, 'ok': 75, 'early': 0, 'late': 11, 'manual': 9, 'missed': 0, 'ok_timing_error_beats': {'median': -0.051, 'p95_abs': 0.399, 'max_abs': 0.996}}}
+    37 manual None 1-bar recheck failed
+    38 manual None not stable by the 1-bar point
+    39 manual None not stable by the 1-bar point
+    40 manual None not stable by the 1-bar point
+    42 manual None 1-bar recheck failed
+    43 manual None not stable by the 1-bar point
+    44 manual None not stable by the 1-bar point
+    45 late 2.91 fired at scheduled time
+    46 manual None 1-bar recheck failed
+    47 manual None not stable by the 1-bar point
+    48 manual None not stable by the 1-bar point
+    49 manual None not stable by the 1-bar point
+    50 manual None 1-bar recheck failed
+    51 manual None not stable by the 1-bar point
+    52 manual None not stable by the 1-bar point
+    53 manual None not stable by the 1-bar point
+    54 late 1.959 fired at scheduled time
+    55 late 1.991 fired at scheduled time
+    56 late 1.936 fired at scheduled time
+    57 late 1.973 fired at scheduled time
+    58 late 1.931 fired at scheduled time
+    60 manual None 1-bar recheck failed
+    62 manual None 1-bar recheck failed
+    63 manual None not stable by the 1-bar point

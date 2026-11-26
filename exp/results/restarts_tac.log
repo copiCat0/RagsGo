@@ -1,0 +1,85 @@
+{'stop_bar': 22, 'stop_beat': 3, 'restart_bar': 11, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': 176}
+{'stop_bar': 22, 'stop_beat': 3, 'restart_bar': 11, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 29, 'stop_beat': 2, 'restart_bar': 11, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': 176}
+{'stop_bar': 29, 'stop_beat': 2, 'restart_bar': 11, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 28, 'stop_beat': 1, 'restart_bar': 19, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 12.25, 'after_lock_correct': 0.565, 'stuck_offset_beats': None}
+{'stop_bar': 28, 'stop_beat': 1, 'restart_bar': 19, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 35, 'stop_beat': 1, 'restart_bar': 19, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 12.25, 'after_lock_correct': 0.565, 'stuck_offset_beats': None}
+{'stop_bar': 35, 'stop_beat': 1, 'restart_bar': 19, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 35, 'stop_beat': 4, 'restart_bar': 27, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': 192}
+{'stop_bar': 35, 'stop_beat': 4, 'restart_bar': 27, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 45, 'stop_beat': 4, 'restart_bar': 27, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': 192}
+{'stop_bar': 45, 'stop_beat': 4, 'restart_bar': 27, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 45, 'stop_beat': 3, 'restart_bar': 35, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': 160}
+{'stop_bar': 45, 'stop_beat': 3, 'restart_bar': 35, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 54, 'stop_beat': 3, 'restart_bar': 35, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': 160}
+{'stop_bar': 54, 'stop_beat': 3, 'restart_bar': 35, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 53, 'stop_beat': 3, 'restart_bar': 43, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 16.0, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 53, 'stop_beat': 3, 'restart_bar': 43, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 61, 'stop_beat': 4, 'restart_bar': 43, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 16.0, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 61, 'stop_beat': 4, 'restart_bar': 43, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 60, 'stop_beat': 4, 'restart_bar': 51, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 14.0, 'after_lock_correct': 0.897, 'stuck_offset_beats': None}
+{'stop_bar': 60, 'stop_beat': 4, 'restart_bar': 51, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 69, 'stop_beat': 1, 'restart_bar': 51, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 14.0, 'after_lock_correct': 0.897, 'stuck_offset_beats': None}
+{'stop_bar': 69, 'stop_beat': 1, 'restart_bar': 51, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 68, 'stop_beat': 4, 'restart_bar': 59, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 7.25, 'after_lock_correct': 0.939, 'stuck_offset_beats': None}
+{'stop_bar': 68, 'stop_beat': 4, 'restart_bar': 59, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 77, 'stop_beat': 1, 'restart_bar': 59, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 7.25, 'after_lock_correct': 0.939, 'stuck_offset_beats': None}
+{'stop_bar': 77, 'stop_beat': 1, 'restart_bar': 59, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 78, 'stop_beat': 3, 'restart_bar': 67, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 15.0, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 78, 'stop_beat': 3, 'restart_bar': 67, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 86, 'stop_beat': 1, 'restart_bar': 67, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 15.0, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 86, 'stop_beat': 1, 'restart_bar': 67, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 83, 'stop_beat': 4, 'restart_bar': 75, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 8.25, 'after_lock_correct': 0.951, 'stuck_offset_beats': None}
+{'stop_bar': 83, 'stop_beat': 4, 'restart_bar': 75, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 91, 'stop_beat': 3, 'restart_bar': 75, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 8.25, 'after_lock_correct': 0.951, 'stuck_offset_beats': None}
+{'stop_bar': 91, 'stop_beat': 3, 'restart_bar': 75, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{'stop_bar': 91, 'stop_beat': 2, 'restart_bar': 83, 'mode': 'free', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': None, 'after_lock_correct': None, 'stuck_offset_beats': -30}
+{'stop_bar': 91, 'stop_beat': 2, 'restart_bar': 83, 'mode': 'tap', 'n_resumes_detected': 2, 'before_correct': 1.0, 'relock_bars': 0.25, 'after_lock_correct': 1.0, 'stuck_offset_beats': None}
+{
+  "free": {
+    "n": 19,
+    "relocked": 12,
+    "relock_within_4_bars": 0,
+    "relock_bars_median": 13.125,
+    "relock_bars_max": 16.0,
+    "stuck_cases": [
+      [
+        11,
+        176
+      ],
+      [
+        11,
+        176
+      ],
+      [
+        27,
+        192
+      ],
+      [
+        27,
+        192
+      ],
+      [
+        35,
+        160
+      ],
+      [
+        35,
+        160
+      ],
+      [
+        83,
+        -30
+      ]
+    ]
+  },
+  "tap": {
+    "n": 19,
+    "relocked": 19,
+    "relock_within_4_bars": 19,
+    "relock_bars_median": 0.25,
+    "relock_bars_max": 0.25,
+    "stuck_cases": []
+  }
+}

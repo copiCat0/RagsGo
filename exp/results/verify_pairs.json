@@ -1,0 +1,123 @@
+[
+  {
+    "original": "tac(TaU)",
+    "recording": "1030:ThinkAboutChu_02",
+    "shift": 0,
+    "direction": "rec_in_orig",
+    "cost": 0.5558,
+    "reversed_cost": 0.6468,
+    "reversal_gap": 0.091,
+    "slope_median": 0.98,
+    "frac_blocks_slope_0.8_1.25": 0.77
+  },
+  {
+    "original": "tac(TaU)",
+    "recording": "1030:HiBully_01",
+    "shift": 1,
+    "direction": "rec_in_orig",
+    "cost": 0.6028,
+    "reversed_cost": 0.6051,
+    "reversal_gap": 0.0023,
+    "slope_median": 0.974,
+    "frac_blocks_slope_0.8_1.25": 0.61
+  },
+  {
+    "original": "n103(악보폴더)",
+    "recording": "합주녹음:103",
+    "shift": 1,
+    "direction": "rec_in_orig",
+    "cost": 0.5889,
+    "reversed_cost": 0.5657,
+    "reversal_gap": -0.0233,
+    "slope_median": 0.878,
+    "frac_blocks_slope_0.8_1.25": 0.44
+  },
+  {
+    "original": "n103(악보폴더)",
+    "recording": "1030:해초_01",
+    "shift": 2,
+    "direction": "rec_in_orig",
+    "cost": 0.5562,
+    "reversed_cost": 0.5697,
+    "reversal_gap": 0.0135,
+    "slope_median": 1.066,
+    "frac_blocks_slope_0.8_1.25": 0.5
+  },
+  {
+    "original": "n103(악보폴더)",
+    "recording": "1030:멋진헛간_02",
+    "shift": 2,
+    "direction": "orig_in_rec",
+    "cost": 0.5675,
+    "reversed_cost": 0.5749,
+    "reversal_gap": 0.0074,
+    "slope_median": 0.898,
+    "frac_blocks_slope_0.8_1.25": 0.7
+  },
+  {
+    "original": "자처",
+    "recording": "합주녹음:크립2",
+    "shift": 2,
+    "direction": "rec_in_orig",
+    "cost": 0.5415,
+    "reversed_cost": 0.5985,
+    "reversal_gap": 0.057,
+    "slope_median": 1.276,
+    "frac_blocks_slope_0.8_1.25": 0.38
+  },
+  {
+    "original": "자처",
+    "recording": "합주녹음:Vlad3",
+    "shift": -2,
+    "direction": "rec_in_orig",
+    "cost": 0.5488,
+    "reversed_cost": 0.5666,
+    "reversal_gap": 0.0178,
+    "slope_median": 0.755,
+    "frac_blocks_slope_0.8_1.25": 0.38
+  },
+  {
+    "original": "히카리:02. Rewrite",
+    "recording": "1030:멋진헛간_02",
+    "shift": -2,
+    "direction": "orig_in_rec",
+    "cost": 0.4895,
+    "reversed_cost": 0.5036,
+    "reversal_gap": 0.0142,
+    "slope_median": 0.944,
+    "frac_blocks_slope_0.8_1.25": 0.73
+  },
+  {
+    "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+    "recording": "1030:해초_01",
+    "shift": 0,
+    "direction": "rec_in_orig",
+    "cost": 0.5292,
+    "reversed_cost": 0.5577,
+    "reversal_gap": 0.0285,
+    "slope_median": 1.0,
+    "frac_blocks_slope_0.8_1.25": 0.45
+  },
+  {
+    "original": "히카리:唱- Ado",
+    "recording": "1030:BeforeYouGo_02",
+    "shift": 0,
+    "direction": "rec_in_orig",
+    "cost": 0.5862,
+    "reversed_cost": 0.5784,
+    "reversal_gap": -0.0078,
+    "slope_median": 0.806,
+    "frac_blocks_slope_0.8_1.25": 0.48
+  },
+  {
+    "original": "히카리:神っぽいな - peenokioP ",
+    "recording": "합주녹음:Vlad3",
+    "shift": 0,
+    "direction": "rec_in_orig",
+    "cost": 0.5513,
+    "reversed_cost": 0.5611,
+    "reversal_gap": 0.0098,
+    "slope_median": 0.704,
+    "frac_blocks_slope_0.8_1.25": 0.23
+  }
+]

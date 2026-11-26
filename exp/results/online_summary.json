@@ -1,0 +1,63 @@
+{
+  "note": "진단용. 비교 대상은 오프라인 DTW 경로이며 정답이 아니다.",
+  "songs": {
+    "tac": {
+      "title": "Think About'chu",
+      "key_shift_semitones": 0,
+      "tempo_penalty": 1.0,
+      "beat_sec": 0.706,
+      "frames_compared": 2775,
+      "raw": {
+        "median_abs_sec": 0.25,
+        "p90_abs_sec": 1.45,
+        "p95_abs_sec": 2.3,
+        "max_abs_sec": 5.85,
+        "median_abs_beats": 0.354,
+        "p95_abs_beats": 3.258,
+        "within_half_beat": 0.582,
+        "within_half_bar": 0.895
+      },
+      "median_signed_error_sec": -0.1,
+      "after_removing_constant_lag": {
+        "median_abs_sec": 0.25,
+        "p90_abs_sec": 1.5,
+        "p95_abs_sec": 2.35,
+        "max_abs_sec": 5.95,
+        "median_abs_beats": 0.354,
+        "p95_abs_beats": 3.329,
+        "within_half_beat": 0.582,
+        "within_half_bar": 0.895
+      },
+      "jumps_over_5s": 0
+    },
+    "n103": {
+      "title": "1:03 (넬)",
+      "key_shift_semitones": 1,
+      "tempo_penalty": 1.0,
+      "beat_sec": 0.714,
+      "frames_compared": 2275,
+      "raw": {
+        "median_abs_sec": 17.0,
+        "p90_abs_sec": 31.68,
+        "p95_abs_sec": 33.0,
+        "max_abs_sec": 34.4,
+        "median_abs_beats": 23.8,
+        "p95_abs_beats": 46.2,
+        "within_half_beat": 0.005,
+        "within_half_bar": 0.024
+      },
+      "median_signed_error_sec": -17.0,
+      "after_removing_constant_lag": {
+        "median_abs_sec": 4.9,
+        "p90_abs_sec": 15.68,
+        "p95_abs_sec": 16.3,
+        "max_abs_sec": 17.4,
+        "median_abs_beats": 6.86,
+        "p95_abs_beats": 22.82,
+        "within_half_beat": 0.031,
+        "within_half_bar": 0.156
+      },
+      "jumps_over_5s": 12
+    }
+  }
+}

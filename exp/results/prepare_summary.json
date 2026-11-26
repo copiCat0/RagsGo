@@ -1,0 +1,14 @@
+{
+  "tac": {
+    "live_sec": 307.56,
+    "orig_sec": 281.44,
+    "peak_before_scale": 1.048,
+    "scale": 0.9448
+  },
+  "n103": {
+    "live_sec": 257.6,
+    "orig_sec": 244.02,
+    "peak_before_scale": 1.068,
+    "scale": 0.9269
+  }
+}

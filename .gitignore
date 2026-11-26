@@ -1,0 +1,48 @@
+# 음원·영상 (저작권 — 절대 커밋 금지)
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.opus
+*.aif
+*.aiff
+*.caf
+*.wma
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.mid
+*.midi
+
+# 악보 (저작권)
+*.pdf
+*.musicxml
+*.mxl
+*.gp
+*.gp3
+*.gp4
+*.gp5
+*.gpx
+
+# 합주 녹음 원본, 음원에서 뽑은 데이터
+합주녹음/
+exp/data/
+*.npz
+*.npy
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+.claude/

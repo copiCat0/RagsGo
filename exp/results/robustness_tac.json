@@ -1,0 +1,407 @@
+{
+  "note": "변형 흉내 시험, 임시 정답 기준. 실제 기기 녹음을 대신하지 못함",
+  "rows": [
+    {
+      "condition": "clean",
+      "activity_rise_db": 20.0,
+      "tracker_f70": 0.969,
+      "beat_number_correct": 1.0,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.147,
+          "max_abs": 0.242
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.147,
+          "max_abs": 0.242
+        }
+      }
+    },
+    {
+      "condition": "phone",
+      "activity_rise_db": 20.0,
+      "tracker_f70": 0.967,
+      "beat_number_correct": 1.0,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.075,
+          "p95_abs": 0.133,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.147,
+          "max_abs": 0.24
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.147,
+          "max_abs": 0.24
+        }
+      }
+    },
+    {
+      "condition": "phone+agc",
+      "activity_rise_db": 20.0,
+      "tracker_f70": 0.962,
+      "beat_number_correct": 1.0,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.072,
+          "p95_abs": 0.129,
+          "max_abs": 0.143
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 93,
+        "early": 0,
+        "late": 0,
+        "manual": 2,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.145,
+          "max_abs": 0.24
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.144,
+          "max_abs": 0.24
+        }
+      }
+    },
+    {
+      "condition": "noise_snr10",
+      "activity_rise_db": 6.0,
+      "tracker_f70": 0.969,
+      "beat_number_correct": 0.83,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 4,
+        "early": 0,
+        "late": 1,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.052,
+          "p95_abs": 0.136,
+          "max_abs": 0.145
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 78,
+        "early": 0,
+        "late": 13,
+        "manual": 4,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.155,
+          "max_abs": 0.923
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 79,
+        "early": 0,
+        "late": 13,
+        "manual": 3,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.152,
+          "max_abs": 0.923
+        }
+      }
+    },
+    {
+      "condition": "noise_snr0",
+      "activity_rise_db": 6.0,
+      "tracker_f70": 0.789,
+      "beat_number_correct": NaN,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 0,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 5,
+        "ok_timing_error_beats": null
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 0,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 95,
+        "ok_timing_error_beats": null
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 0,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 95,
+        "ok_timing_error_beats": null
+      }
+    },
+    {
+      "condition": "quiet_-20dB",
+      "activity_rise_db": 20.0,
+      "tracker_f70": 0.967,
+      "beat_number_correct": 1.0,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.069,
+          "p95_abs": 0.136,
+          "max_abs": 0.143
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.146,
+          "max_abs": 0.24
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.059,
+          "p95_abs": 0.146,
+          "max_abs": 0.24
+        }
+      }
+    },
+    {
+      "condition": "tempo_x1.05",
+      "activity_rise_db": 20.0,
+      "tracker_f70": 0.929,
+      "beat_number_correct": 1.0,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.114,
+          "p95_abs": 0.155,
+          "max_abs": 0.158
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 88,
+        "early": 0,
+        "late": 0,
+        "manual": 7,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.091,
+          "p95_abs": 0.162,
+          "max_abs": 0.235
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.089,
+          "p95_abs": 0.16,
+          "max_abs": 0.235
+        }
+      }
+    },
+    {
+      "condition": "tempo_x0.95",
+      "activity_rise_db": 20.0,
+      "tracker_f70": 0.952,
+      "beat_number_correct": 1.0,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.106,
+          "p95_abs": 0.15,
+          "max_abs": 0.158
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 86,
+        "early": 0,
+        "late": 0,
+        "manual": 9,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.077,
+          "p95_abs": 0.157,
+          "max_abs": 0.223
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.075,
+          "p95_abs": 0.154,
+          "max_abs": 0.223
+        }
+      }
+    },
+    {
+      "condition": "worst",
+      "activity_rise_db": 6.0,
+      "tracker_f70": 0.86,
+      "beat_number_correct": 0.799,
+      "min_strength": 0.4,
+      "pages": {
+        "n": 5,
+        "ok": 2,
+        "early": 0,
+        "late": 0,
+        "manual": 3,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.078,
+          "p95_abs": 0.097,
+          "max_abs": 0.099
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 37,
+        "early": 0,
+        "late": 10,
+        "manual": 48,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.098,
+          "p95_abs": 0.174,
+          "max_abs": 0.207
+        }
+      },
+      "all_bar_lines_no_strength_gate": {
+        "n": 95,
+        "ok": 78,
+        "early": 0,
+        "late": 12,
+        "manual": 5,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.096,
+          "p95_abs": 0.199,
+          "max_abs": 0.971
+        }
+      }
+    }
+  ]
+}

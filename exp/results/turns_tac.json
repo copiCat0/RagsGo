@@ -1,0 +1,4719 @@
+{
+  "note": "임시 정답(사람 확인 전) 기준. 출력 지연 0으로 가정",
+  "song": "tac",
+  "conditions": [
+    {
+      "start_window_beats": 1,
+      "penalty": 1.0,
+      "min_margin": 0.0,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 4,
+        "early": 0,
+        "late": 0,
+        "manual": 1,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.034,
+          "p95_abs": 0.793,
+          "max_abs": 0.908
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 54,
+        "early": 1,
+        "late": 0,
+        "manual": 40,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.241,
+          "max_abs": 0.935
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.908,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 24,
+          "turn_beat": 93,
+          "true_sec": 68.749,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 25,
+          "turn_beat": 97,
+          "true_sec": 71.628,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 29,
+          "turn_beat": 113,
+          "true_sec": 82.889,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -1.062,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 30,
+          "turn_beat": 117,
+          "true_sec": 85.699,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 31,
+          "turn_beat": 121,
+          "true_sec": 88.509,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 32,
+          "turn_beat": 125,
+          "true_sec": 91.341,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 34,
+          "turn_beat": 133,
+          "true_sec": 97.007,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 39,
+          "turn_beat": 153,
+          "true_sec": 111.16,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 40,
+          "turn_beat": 157,
+          "true_sec": 113.958,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 42,
+          "turn_beat": 165,
+          "true_sec": 119.612,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 43,
+          "turn_beat": 169,
+          "true_sec": 122.41,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 44,
+          "turn_beat": 173,
+          "true_sec": 125.243,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 45,
+          "turn_beat": 177,
+          "true_sec": 128.064,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 46,
+          "turn_beat": 181,
+          "true_sec": 130.908,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 47,
+          "turn_beat": 185,
+          "true_sec": 133.695,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 48,
+          "turn_beat": 189,
+          "true_sec": 136.516,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 49,
+          "turn_beat": 193,
+          "true_sec": 139.372,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 51,
+          "turn_beat": 201,
+          "true_sec": 144.991,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 72,
+          "turn_beat": 285,
+          "true_sec": 204.295,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 74,
+          "turn_beat": 293,
+          "true_sec": 209.926,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 76,
+          "turn_beat": 301,
+          "true_sec": 215.568,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 77,
+          "turn_beat": 305,
+          "true_sec": 218.401,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 79,
+          "turn_beat": 313,
+          "true_sec": 224.078,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 80,
+          "turn_beat": 317,
+          "true_sec": 226.888,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 83,
+          "turn_beat": 329,
+          "true_sec": 235.34,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 84,
+          "turn_beat": 333,
+          "true_sec": 238.173,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 87,
+          "turn_beat": 345,
+          "true_sec": 246.683,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 88,
+          "turn_beat": 349,
+          "true_sec": 249.446,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 89,
+          "turn_beat": 353,
+          "true_sec": 252.291,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 93,
+          "turn_beat": 369,
+          "true_sec": 263.575,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 94,
+          "turn_beat": 373,
+          "true_sec": 266.408,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 1.0,
+      "min_margin": 0.5,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 3,
+        "early": 0,
+        "late": 0,
+        "manual": 2,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": 0.017,
+          "p95_abs": 0.826,
+          "max_abs": 0.908
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 50,
+        "early": 1,
+        "late": 0,
+        "manual": 44,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.241,
+          "max_abs": 0.935
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.908,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 24,
+          "turn_beat": 93,
+          "true_sec": 68.749,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 25,
+          "turn_beat": 97,
+          "true_sec": 71.628,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 29,
+          "turn_beat": 113,
+          "true_sec": 82.889,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -1.062,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 30,
+          "turn_beat": 117,
+          "true_sec": 85.699,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 31,
+          "turn_beat": 121,
+          "true_sec": 88.509,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 32,
+          "turn_beat": 125,
+          "true_sec": 91.341,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 34,
+          "turn_beat": 133,
+          "true_sec": 97.007,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 39,
+          "turn_beat": 153,
+          "true_sec": 111.16,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 40,
+          "turn_beat": 157,
+          "true_sec": 113.958,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 42,
+          "turn_beat": 165,
+          "true_sec": 119.612,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 43,
+          "turn_beat": 169,
+          "true_sec": 122.41,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 44,
+          "turn_beat": 173,
+          "true_sec": 125.243,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 45,
+          "turn_beat": 177,
+          "true_sec": 128.064,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 46,
+          "turn_beat": 181,
+          "true_sec": 130.908,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 47,
+          "turn_beat": 185,
+          "true_sec": 133.695,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 48,
+          "turn_beat": 189,
+          "true_sec": 136.516,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 49,
+          "turn_beat": 193,
+          "true_sec": 139.372,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 51,
+          "turn_beat": 201,
+          "true_sec": 144.991,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 72,
+          "turn_beat": 285,
+          "true_sec": 204.295,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 74,
+          "turn_beat": 293,
+          "true_sec": 209.926,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 76,
+          "turn_beat": 301,
+          "true_sec": 215.568,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 77,
+          "turn_beat": 305,
+          "true_sec": 218.401,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 79,
+          "turn_beat": 313,
+          "true_sec": 224.078,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 80,
+          "turn_beat": 317,
+          "true_sec": 226.888,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 81,
+          "turn_beat": 321,
+          "true_sec": 229.686,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 83,
+          "turn_beat": 329,
+          "true_sec": 235.34,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 84,
+          "turn_beat": 333,
+          "true_sec": 238.173,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 86,
+          "turn_beat": 341,
+          "true_sec": 243.804,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 87,
+          "turn_beat": 345,
+          "true_sec": 246.683,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 88,
+          "turn_beat": 349,
+          "true_sec": 249.446,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 89,
+          "turn_beat": 353,
+          "true_sec": 252.291,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 93,
+          "turn_beat": 369,
+          "true_sec": 263.575,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 94,
+          "turn_beat": 373,
+          "true_sec": 266.408,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 1.0,
+      "min_margin": 0.0,
+      "min_strength": 0.4,
+      "page_turns": {
+        "n": 5,
+        "ok": 4,
+        "early": 0,
+        "late": 0,
+        "manual": 1,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.034,
+          "p95_abs": 0.793,
+          "max_abs": 0.908
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 53,
+        "early": 1,
+        "late": 0,
+        "manual": 41,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.241,
+          "max_abs": 0.935
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.908,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 24,
+          "turn_beat": 93,
+          "true_sec": 68.749,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 25,
+          "turn_beat": 97,
+          "true_sec": 71.628,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 29,
+          "turn_beat": 113,
+          "true_sec": 82.889,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -1.062,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 30,
+          "turn_beat": 117,
+          "true_sec": 85.699,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 31,
+          "turn_beat": 121,
+          "true_sec": 88.509,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 32,
+          "turn_beat": 125,
+          "true_sec": 91.341,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 34,
+          "turn_beat": 133,
+          "true_sec": 97.007,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 39,
+          "turn_beat": 153,
+          "true_sec": 111.16,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 40,
+          "turn_beat": 157,
+          "true_sec": 113.958,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 42,
+          "turn_beat": 165,
+          "true_sec": 119.612,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 43,
+          "turn_beat": 169,
+          "true_sec": 122.41,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 44,
+          "turn_beat": 173,
+          "true_sec": 125.243,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 45,
+          "turn_beat": 177,
+          "true_sec": 128.064,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 46,
+          "turn_beat": 181,
+          "true_sec": 130.908,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 47,
+          "turn_beat": 185,
+          "true_sec": 133.695,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 48,
+          "turn_beat": 189,
+          "true_sec": 136.516,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 49,
+          "turn_beat": 193,
+          "true_sec": 139.372,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 51,
+          "turn_beat": 201,
+          "true_sec": 144.991,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 72,
+          "turn_beat": 285,
+          "true_sec": 204.295,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 74,
+          "turn_beat": 293,
+          "true_sec": 209.926,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 76,
+          "turn_beat": 301,
+          "true_sec": 215.568,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 77,
+          "turn_beat": 305,
+          "true_sec": 218.401,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 79,
+          "turn_beat": 313,
+          "true_sec": 224.078,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 80,
+          "turn_beat": 317,
+          "true_sec": 226.888,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 83,
+          "turn_beat": 329,
+          "true_sec": 235.34,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 84,
+          "turn_beat": 333,
+          "true_sec": 238.173,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 87,
+          "turn_beat": 345,
+          "true_sec": 246.683,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 88,
+          "turn_beat": 349,
+          "true_sec": 249.446,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 89,
+          "turn_beat": 353,
+          "true_sec": 252.291,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 93,
+          "turn_beat": 369,
+          "true_sec": 263.575,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 94,
+          "turn_beat": 373,
+          "true_sec": 266.408,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 96,
+          "turn_beat": 381,
+          "true_sec": 272.074,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 2.0,
+      "min_margin": 0.0,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 93,
+        "early": 0,
+        "late": 0,
+        "manual": 2,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.148,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 2.0,
+      "min_margin": 0.5,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 93,
+        "early": 0,
+        "late": 0,
+        "manual": 2,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.148,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 2.0,
+      "min_margin": 0.0,
+      "min_strength": 0.4,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 93,
+        "early": 0,
+        "late": 0,
+        "manual": 2,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.148,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 4.0,
+      "min_margin": 0.0,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.147,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": []
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 4.0,
+      "min_margin": 0.5,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.147,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": []
+    },
+    {
+      "start_window_beats": 1,
+      "penalty": 4.0,
+      "min_margin": 0.0,
+      "min_strength": 0.4,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 95,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.06,
+          "p95_abs": 0.147,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": []
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 1.0,
+      "min_margin": 0.0,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 4,
+        "early": 0,
+        "late": 0,
+        "manual": 1,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.034,
+          "p95_abs": 0.793,
+          "max_abs": 0.908
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 48,
+        "early": 2,
+        "late": 0,
+        "manual": 42,
+        "missed": 3,
+        "ok_timing_error_beats": {
+          "median": -0.069,
+          "p95_abs": 0.241,
+          "max_abs": 0.935
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.908,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 24,
+          "turn_beat": 93,
+          "true_sec": 68.749,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 25,
+          "turn_beat": 97,
+          "true_sec": 71.628,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 29,
+          "turn_beat": 113,
+          "true_sec": 82.889,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -1.062,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 30,
+          "turn_beat": 117,
+          "true_sec": 85.699,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 31,
+          "turn_beat": 121,
+          "true_sec": 88.509,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 32,
+          "turn_beat": 125,
+          "true_sec": 91.341,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 34,
+          "turn_beat": 133,
+          "true_sec": 97.007,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 39,
+          "turn_beat": 153,
+          "true_sec": 111.16,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 40,
+          "turn_beat": 157,
+          "true_sec": 113.958,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 42,
+          "turn_beat": 165,
+          "true_sec": 119.612,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 43,
+          "turn_beat": 169,
+          "true_sec": 122.41,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 44,
+          "turn_beat": 173,
+          "true_sec": 125.243,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 45,
+          "turn_beat": 177,
+          "true_sec": 128.064,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 46,
+          "turn_beat": 181,
+          "true_sec": 130.908,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 47,
+          "turn_beat": 185,
+          "true_sec": 133.695,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 48,
+          "turn_beat": 189,
+          "true_sec": 136.516,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 49,
+          "turn_beat": 193,
+          "true_sec": 139.372,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 51,
+          "turn_beat": 201,
+          "true_sec": 144.991,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 72,
+          "turn_beat": 285,
+          "true_sec": 204.295,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 74,
+          "turn_beat": 293,
+          "true_sec": 209.926,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 76,
+          "turn_beat": 301,
+          "true_sec": 215.568,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 77,
+          "turn_beat": 305,
+          "true_sec": 218.401,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 79,
+          "turn_beat": 313,
+          "true_sec": 224.078,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 80,
+          "turn_beat": 317,
+          "true_sec": 226.888,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 83,
+          "turn_beat": 329,
+          "true_sec": 235.34,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 84,
+          "turn_beat": 333,
+          "true_sec": 238.173,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 87,
+          "turn_beat": 345,
+          "true_sec": 246.683,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 88,
+          "turn_beat": 349,
+          "true_sec": 249.446,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 89,
+          "turn_beat": 353,
+          "true_sec": 252.291,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 93,
+          "turn_beat": 369,
+          "true_sec": 263.575,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 94,
+          "turn_beat": 373,
+          "true_sec": 266.408,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 1.0,
+      "min_margin": 0.5,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 3,
+        "early": 0,
+        "late": 0,
+        "manual": 2,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": 0.017,
+          "p95_abs": 0.826,
+          "max_abs": 0.908
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 44,
+        "early": 2,
+        "late": 0,
+        "manual": 46,
+        "missed": 3,
+        "ok_timing_error_beats": {
+          "median": -0.069,
+          "p95_abs": 0.242,
+          "max_abs": 0.935
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.908,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 5,
+          "turn_beat": 17,
+          "true_sec": 15.122,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 24,
+          "turn_beat": 93,
+          "true_sec": 68.749,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 25,
+          "turn_beat": 97,
+          "true_sec": 71.628,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 29,
+          "turn_beat": 113,
+          "true_sec": 82.889,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -1.062,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 30,
+          "turn_beat": 117,
+          "true_sec": 85.699,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 31,
+          "turn_beat": 121,
+          "true_sec": 88.509,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 32,
+          "turn_beat": 125,
+          "true_sec": 91.341,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 34,
+          "turn_beat": 133,
+          "true_sec": 97.007,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 39,
+          "turn_beat": 153,
+          "true_sec": 111.16,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 40,
+          "turn_beat": 157,
+          "true_sec": 113.958,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 42,
+          "turn_beat": 165,
+          "true_sec": 119.612,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 43,
+          "turn_beat": 169,
+          "true_sec": 122.41,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 44,
+          "turn_beat": 173,
+          "true_sec": 125.243,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 45,
+          "turn_beat": 177,
+          "true_sec": 128.064,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 46,
+          "turn_beat": 181,
+          "true_sec": 130.908,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 47,
+          "turn_beat": 185,
+          "true_sec": 133.695,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 48,
+          "turn_beat": 189,
+          "true_sec": 136.516,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 49,
+          "turn_beat": 193,
+          "true_sec": 139.372,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 51,
+          "turn_beat": 201,
+          "true_sec": 144.991,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 72,
+          "turn_beat": 285,
+          "true_sec": 204.295,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 74,
+          "turn_beat": 293,
+          "true_sec": 209.926,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 76,
+          "turn_beat": 301,
+          "true_sec": 215.568,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 77,
+          "turn_beat": 305,
+          "true_sec": 218.401,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 79,
+          "turn_beat": 313,
+          "true_sec": 224.078,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 80,
+          "turn_beat": 317,
+          "true_sec": 226.888,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 81,
+          "turn_beat": 321,
+          "true_sec": 229.686,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 83,
+          "turn_beat": 329,
+          "true_sec": 235.34,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 84,
+          "turn_beat": 333,
+          "true_sec": 238.173,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 86,
+          "turn_beat": 341,
+          "true_sec": 243.804,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 87,
+          "turn_beat": 345,
+          "true_sec": 246.683,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 88,
+          "turn_beat": 349,
+          "true_sec": 249.446,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 89,
+          "turn_beat": 353,
+          "true_sec": 252.291,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 93,
+          "turn_beat": 369,
+          "true_sec": 263.575,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 94,
+          "turn_beat": 373,
+          "true_sec": 266.408,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 1.0,
+      "min_margin": 0.0,
+      "min_strength": 0.4,
+      "page_turns": {
+        "n": 5,
+        "ok": 4,
+        "early": 0,
+        "late": 0,
+        "manual": 1,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.034,
+          "p95_abs": 0.793,
+          "max_abs": 0.908
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 47,
+        "early": 2,
+        "late": 0,
+        "manual": 43,
+        "missed": 3,
+        "ok_timing_error_beats": {
+          "median": -0.073,
+          "p95_abs": 0.241,
+          "max_abs": 0.935
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.908,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 24,
+          "turn_beat": 93,
+          "true_sec": 68.749,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 25,
+          "turn_beat": 97,
+          "true_sec": 71.628,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 29,
+          "turn_beat": 113,
+          "true_sec": 82.889,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -1.062,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 30,
+          "turn_beat": 117,
+          "true_sec": 85.699,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 31,
+          "turn_beat": 121,
+          "true_sec": 88.509,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 32,
+          "turn_beat": 125,
+          "true_sec": 91.341,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 34,
+          "turn_beat": 133,
+          "true_sec": 97.007,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 39,
+          "turn_beat": 153,
+          "true_sec": 111.16,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 40,
+          "turn_beat": 157,
+          "true_sec": 113.958,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 42,
+          "turn_beat": 165,
+          "true_sec": 119.612,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 43,
+          "turn_beat": 169,
+          "true_sec": 122.41,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 44,
+          "turn_beat": 173,
+          "true_sec": 125.243,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 45,
+          "turn_beat": 177,
+          "true_sec": 128.064,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 46,
+          "turn_beat": 181,
+          "true_sec": 130.908,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 47,
+          "turn_beat": 185,
+          "true_sec": 133.695,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 48,
+          "turn_beat": 189,
+          "true_sec": 136.516,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 49,
+          "turn_beat": 193,
+          "true_sec": 139.372,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 51,
+          "turn_beat": 201,
+          "true_sec": 144.991,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 72,
+          "turn_beat": 285,
+          "true_sec": 204.295,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 74,
+          "turn_beat": 293,
+          "true_sec": 209.926,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 76,
+          "turn_beat": 301,
+          "true_sec": 215.568,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 77,
+          "turn_beat": 305,
+          "true_sec": 218.401,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 79,
+          "turn_beat": 313,
+          "true_sec": 224.078,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 80,
+          "turn_beat": 317,
+          "true_sec": 226.888,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 83,
+          "turn_beat": 329,
+          "true_sec": 235.34,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 84,
+          "turn_beat": 333,
+          "true_sec": 238.173,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 87,
+          "turn_beat": 345,
+          "true_sec": 246.683,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 88,
+          "turn_beat": 349,
+          "true_sec": 249.446,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 89,
+          "turn_beat": 353,
+          "true_sec": 252.291,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 93,
+          "turn_beat": 369,
+          "true_sec": 263.575,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 94,
+          "turn_beat": 373,
+          "true_sec": 266.408,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 96,
+          "turn_beat": 381,
+          "true_sec": 272.074,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 2.0,
+      "min_margin": 0.0,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 81,
+        "early": 1,
+        "late": 0,
+        "manual": 11,
+        "missed": 2,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.153,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 2.0,
+      "min_margin": 0.5,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 79,
+        "early": 1,
+        "late": 0,
+        "manual": 12,
+        "missed": 3,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.154,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 5,
+          "turn_beat": 17,
+          "true_sec": 15.122,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 2.0,
+      "min_margin": 0.0,
+      "min_strength": 0.4,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 81,
+        "early": 1,
+        "late": 0,
+        "manual": 11,
+        "missed": 2,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.153,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 26,
+          "turn_beat": 101,
+          "true_sec": 74.437,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 92,
+          "turn_beat": 365,
+          "true_sec": 260.743,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 4.0,
+      "min_margin": 0.0,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 83,
+        "early": 1,
+        "late": 0,
+        "manual": 9,
+        "missed": 2,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.152,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 4.0,
+      "min_margin": 0.5,
+      "min_strength": 0.0,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 81,
+        "early": 1,
+        "late": 0,
+        "manual": 10,
+        "missed": 3,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.153,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 5,
+          "turn_beat": 17,
+          "true_sec": 15.122,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 8,
+          "turn_beat": 29,
+          "true_sec": 23.597,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    },
+    {
+      "start_window_beats": 10000,
+      "penalty": 4.0,
+      "min_margin": 0.0,
+      "min_strength": 0.4,
+      "page_turns": {
+        "n": 5,
+        "ok": 5,
+        "early": 0,
+        "late": 0,
+        "manual": 0,
+        "missed": 0,
+        "ok_timing_error_beats": {
+          "median": -0.084,
+          "p95_abs": 0.132,
+          "max_abs": 0.144
+        }
+      },
+      "all_bar_lines": {
+        "n": 95,
+        "ok": 83,
+        "early": 1,
+        "late": 0,
+        "manual": 9,
+        "missed": 2,
+        "ok_timing_error_beats": {
+          "median": -0.061,
+          "p95_abs": 0.152,
+          "max_abs": 0.242
+        }
+      },
+      "page_turn_detail": [
+        {
+          "bar": 15,
+          "turn_beat": 57,
+          "true_sec": 43.369,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.086,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 35,
+          "turn_beat": 137,
+          "true_sec": 99.828,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.025,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 55,
+          "turn_beat": 217,
+          "true_sec": 156.322,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.144,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 75,
+          "turn_beat": 297,
+          "true_sec": 212.735,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": 0.017,
+          "reason": "fired at scheduled time"
+        },
+        {
+          "bar": 95,
+          "turn_beat": 377,
+          "true_sec": 269.264,
+          "status": "auto",
+          "verdict": "ok",
+          "error_beats": -0.084,
+          "reason": "fired at scheduled time"
+        }
+      ],
+      "all_bar_failures": [
+        {
+          "bar": 4,
+          "turn_beat": 13,
+          "true_sec": 12.289,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 9,
+          "turn_beat": 33,
+          "true_sec": 26.407,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "1-bar recheck failed"
+        },
+        {
+          "bar": 10,
+          "turn_beat": 37,
+          "true_sec": 29.228,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 11,
+          "turn_beat": 41,
+          "true_sec": 32.061,
+          "status": "missed",
+          "verdict": "missed",
+          "error_beats": null,
+          "reason": "never reached the 2-bar check"
+        },
+        {
+          "bar": 12,
+          "turn_beat": 45,
+          "true_sec": 34.859,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 13,
+          "turn_beat": 49,
+          "true_sec": 37.669,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 69,
+          "turn_beat": 273,
+          "true_sec": 195.831,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 70,
+          "turn_beat": 277,
+          "true_sec": 198.653,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 90,
+          "turn_beat": 357,
+          "true_sec": 255.135,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 91,
+          "turn_beat": 361,
+          "true_sec": 257.956,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 97,
+          "turn_beat": 385,
+          "true_sec": 274.884,
+          "status": "manual",
+          "verdict": "manual",
+          "error_beats": null,
+          "reason": "not stable by the 1-bar point"
+        },
+        {
+          "bar": 98,
+          "turn_beat": 389,
+          "true_sec": 277.705,
+          "status": "auto",
+          "verdict": "early",
+          "error_beats": -351.934,
+          "reason": "fired at scheduled time"
+        }
+      ]
+    }
+  ]
+}

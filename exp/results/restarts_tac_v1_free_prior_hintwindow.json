@@ -1,0 +1,724 @@
+{
+  "note": "합성 재시작 시험 (띵바츄, 임시 정답 기준)",
+  "summary": {
+    "free": {
+      "n": 19,
+      "relocked": 12,
+      "relock_within_4_bars": 0,
+      "relock_bars_median": 13.125,
+      "relock_bars_max": 16.0,
+      "stuck_cases": [
+        [
+          11,
+          176
+        ],
+        [
+          11,
+          176
+        ],
+        [
+          27,
+          192
+        ],
+        [
+          27,
+          192
+        ],
+        [
+          35,
+          160
+        ],
+        [
+          35,
+          160
+        ],
+        [
+          83,
+          -30
+        ]
+      ]
+    },
+    "prior": {
+      "n": 19,
+      "relocked": 10,
+      "relock_within_4_bars": 0,
+      "relock_bars_median": 16.0,
+      "relock_bars_max": 20.25,
+      "stuck_cases": [
+        [
+          27,
+          192
+        ],
+        [
+          27,
+          192
+        ],
+        [
+          35,
+          160
+        ],
+        [
+          35,
+          160
+        ],
+        [
+          67,
+          31
+        ],
+        [
+          67,
+          31
+        ],
+        [
+          75,
+          -1
+        ],
+        [
+          75,
+          -1
+        ],
+        [
+          83,
+          -1
+        ]
+      ]
+    },
+    "hint": {
+      "n": 19,
+      "relocked": 19,
+      "relock_within_4_bars": 17,
+      "relock_bars_median": 3.25,
+      "relock_bars_max": 7.5,
+      "stuck_cases": []
+    }
+  },
+  "rows": [
+    {
+      "stop_bar": 22,
+      "stop_beat": 3,
+      "restart_bar": 11,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 176
+    },
+    {
+      "stop_bar": 22,
+      "stop_beat": 3,
+      "restart_bar": 11,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 20.25,
+      "after_lock_correct": 0.643,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 22,
+      "stop_beat": 3,
+      "restart_bar": 11,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 1.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 29,
+      "stop_beat": 2,
+      "restart_bar": 11,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 176
+    },
+    {
+      "stop_bar": 29,
+      "stop_beat": 2,
+      "restart_bar": 11,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 20.25,
+      "after_lock_correct": 0.643,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 29,
+      "stop_beat": 2,
+      "restart_bar": 11,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 1.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 28,
+      "stop_beat": 1,
+      "restart_bar": 19,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 12.25,
+      "after_lock_correct": 0.543,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 28,
+      "stop_beat": 1,
+      "restart_bar": 19,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 14.0,
+      "after_lock_correct": 0.513,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 28,
+      "stop_beat": 1,
+      "restart_bar": 19,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 1.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 35,
+      "stop_beat": 1,
+      "restart_bar": 19,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 12.25,
+      "after_lock_correct": 0.543,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 35,
+      "stop_beat": 1,
+      "restart_bar": 19,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 16.25,
+      "after_lock_correct": 0.367,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 35,
+      "stop_beat": 1,
+      "restart_bar": 19,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 2.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 35,
+      "stop_beat": 4,
+      "restart_bar": 27,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 192
+    },
+    {
+      "stop_bar": 35,
+      "stop_beat": 4,
+      "restart_bar": 27,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 192
+    },
+    {
+      "stop_bar": 35,
+      "stop_beat": 4,
+      "restart_bar": 27,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.5,
+      "after_lock_correct": 0.988,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 45,
+      "stop_beat": 4,
+      "restart_bar": 27,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 192
+    },
+    {
+      "stop_bar": 45,
+      "stop_beat": 4,
+      "restart_bar": 27,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 192
+    },
+    {
+      "stop_bar": 45,
+      "stop_beat": 4,
+      "restart_bar": 27,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.5,
+      "after_lock_correct": 0.988,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 45,
+      "stop_beat": 3,
+      "restart_bar": 35,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 160
+    },
+    {
+      "stop_bar": 45,
+      "stop_beat": 3,
+      "restart_bar": 35,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 160
+    },
+    {
+      "stop_bar": 45,
+      "stop_beat": 3,
+      "restart_bar": 35,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 1.0,
+      "after_lock_correct": 0.967,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 54,
+      "stop_beat": 3,
+      "restart_bar": 35,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 160
+    },
+    {
+      "stop_bar": 54,
+      "stop_beat": 3,
+      "restart_bar": 35,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 160
+    },
+    {
+      "stop_bar": 54,
+      "stop_beat": 3,
+      "restart_bar": 35,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 1.0,
+      "after_lock_correct": 0.967,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 53,
+      "stop_beat": 3,
+      "restart_bar": 43,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 16.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 53,
+      "stop_beat": 3,
+      "restart_bar": 43,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 16.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 53,
+      "stop_beat": 3,
+      "restart_bar": 43,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 61,
+      "stop_beat": 4,
+      "restart_bar": 43,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 16.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 61,
+      "stop_beat": 4,
+      "restart_bar": 43,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 16.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 61,
+      "stop_beat": 4,
+      "restart_bar": 43,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 60,
+      "stop_beat": 4,
+      "restart_bar": 51,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 14.0,
+      "after_lock_correct": 0.897,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 60,
+      "stop_beat": 4,
+      "restart_bar": 51,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 13.75,
+      "after_lock_correct": 0.925,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 60,
+      "stop_beat": 4,
+      "restart_bar": 51,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 2.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 69,
+      "stop_beat": 1,
+      "restart_bar": 51,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 14.0,
+      "after_lock_correct": 0.923,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 69,
+      "stop_beat": 1,
+      "restart_bar": 51,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 15.5,
+      "after_lock_correct": 0.939,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 69,
+      "stop_beat": 1,
+      "restart_bar": 51,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 4.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 68,
+      "stop_beat": 4,
+      "restart_bar": 59,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 7.5,
+      "after_lock_correct": 0.923,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 68,
+      "stop_beat": 4,
+      "restart_bar": 59,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 7.5,
+      "after_lock_correct": 0.923,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 68,
+      "stop_beat": 4,
+      "restart_bar": 59,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 0.25,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 77,
+      "stop_beat": 1,
+      "restart_bar": 59,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 7.5,
+      "after_lock_correct": 0.923,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 77,
+      "stop_beat": 1,
+      "restart_bar": 59,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 16.0,
+      "after_lock_correct": 0.806,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 77,
+      "stop_beat": 1,
+      "restart_bar": 59,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.5,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 78,
+      "stop_beat": 3,
+      "restart_bar": 67,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 15.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 78,
+      "stop_beat": 3,
+      "restart_bar": 67,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 31
+    },
+    {
+      "stop_bar": 78,
+      "stop_beat": 3,
+      "restart_bar": 67,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.25,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 86,
+      "stop_beat": 1,
+      "restart_bar": 67,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 15.0,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 86,
+      "stop_beat": 1,
+      "restart_bar": 67,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": 31
+    },
+    {
+      "stop_bar": 86,
+      "stop_beat": 1,
+      "restart_bar": 67,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 3.25,
+      "after_lock_correct": 1.0,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 83,
+      "stop_beat": 4,
+      "restart_bar": 75,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 8.25,
+      "after_lock_correct": 0.934,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 83,
+      "stop_beat": 4,
+      "restart_bar": 75,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": -1
+    },
+    {
+      "stop_bar": 83,
+      "stop_beat": 4,
+      "restart_bar": 75,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 7.5,
+      "after_lock_correct": 0.969,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 91,
+      "stop_beat": 3,
+      "restart_bar": 75,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 8.25,
+      "after_lock_correct": 0.934,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 91,
+      "stop_beat": 3,
+      "restart_bar": 75,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": -1
+    },
+    {
+      "stop_bar": 91,
+      "stop_beat": 3,
+      "restart_bar": 75,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 7.5,
+      "after_lock_correct": 0.969,
+      "stuck_offset_beats": null
+    },
+    {
+      "stop_bar": 91,
+      "stop_beat": 2,
+      "restart_bar": 83,
+      "mode": "free",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": -30
+    },
+    {
+      "stop_bar": 91,
+      "stop_beat": 2,
+      "restart_bar": 83,
+      "mode": "prior",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": null,
+      "after_lock_correct": null,
+      "stuck_offset_beats": -1
+    },
+    {
+      "stop_bar": 91,
+      "stop_beat": 2,
+      "restart_bar": 83,
+      "mode": "hint",
+      "n_resumes_detected": 2,
+      "before_correct": 1.0,
+      "relock_bars": 2.25,
+      "after_lock_correct": 0.679,
+      "stuck_offset_beats": null
+    }
+  ]
+}

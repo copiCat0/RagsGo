@@ -1,0 +1,2032 @@
+{
+  "note": "추정. 비용이 낮고 z가 크게 음수면 같은 곡일 가능성이 높다. 사용자 확인 필요.",
+  "ranking_by_original": {
+    "tac(TaU)": {
+      "best": "1030:ThinkAboutChu_02",
+      "best_cost": 0.5558,
+      "best_shift": 0,
+      "direction": "rec_in_orig",
+      "second": "1030:HiBully_01",
+      "second_cost": 0.6028,
+      "z_vs_others": -3.87,
+      "top5": [
+        [
+          "1030:ThinkAboutChu_02",
+          0.5558,
+          0
+        ],
+        [
+          "1030:HiBully_01",
+          0.6028,
+          1
+        ],
+        [
+          "1030:BeforeYouGo_02",
+          0.6073,
+          0
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.624,
+          0
+        ],
+        [
+          "뮤즈벙:panic station 3",
+          0.6279,
+          1
+        ]
+      ]
+    },
+    "자처": {
+      "best": "합주녹음:크립2",
+      "best_cost": 0.5415,
+      "best_shift": 2,
+      "direction": "rec_in_orig",
+      "second": "합주녹음:Vlad3",
+      "second_cost": 0.5488,
+      "z_vs_others": -2.62,
+      "top5": [
+        [
+          "합주녹음:크립2",
+          0.5415,
+          2
+        ],
+        [
+          "합주녹음:Vlad3",
+          0.5488,
+          -2
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.6012,
+          -2
+        ],
+        [
+          "1030:ThinkAboutChu_02",
+          0.6078,
+          1
+        ],
+        [
+          "1030:BeforeYouGo_02",
+          0.6108,
+          -2
+        ]
+      ]
+    },
+    "n103(악보폴더)": {
+      "best": "1030:해초_01",
+      "best_cost": 0.5562,
+      "best_shift": 2,
+      "direction": "rec_in_orig",
+      "second": "1030:멋진헛간_02",
+      "second_cost": 0.5675,
+      "z_vs_others": -2.22,
+      "top5": [
+        [
+          "1030:해초_01",
+          0.5562,
+          2
+        ],
+        [
+          "1030:멋진헛간_02",
+          0.5675,
+          2
+        ],
+        [
+          "합주녹음:103",
+          0.5889,
+          1
+        ],
+        [
+          "1030:BeforeYouGo_02",
+          0.5891,
+          -2
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.5911,
+          -2
+        ]
+      ]
+    },
+    "히카리:02. Rewrite": {
+      "best": "1030:멋진헛간_02",
+      "best_cost": 0.4895,
+      "best_shift": -2,
+      "direction": "orig_in_rec",
+      "second": "1030:BeforeYouGo_02",
+      "second_cost": 0.5466,
+      "z_vs_others": -2.51,
+      "top5": [
+        [
+          "1030:멋진헛간_02",
+          0.4895,
+          -2
+        ],
+        [
+          "1030:BeforeYouGo_02",
+          0.5466,
+          -1
+        ],
+        [
+          "1030:해초_01",
+          0.5518,
+          -2
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.5658,
+          -1
+        ],
+        [
+          "뮤즈벙:plug in baby 4",
+          0.5692,
+          -2
+        ]
+      ]
+    },
+    "히카리:Ado _「시끄러워(うっせぇわ)」": {
+      "best": "합주녹음:103",
+      "best_cost": 0.6133,
+      "best_shift": 2,
+      "direction": "orig_in_rec",
+      "second": "합주녹음:크립2",
+      "second_cost": 0.6208,
+      "z_vs_others": -1.95,
+      "top5": [
+        [
+          "합주녹음:103",
+          0.6133,
+          2
+        ],
+        [
+          "합주녹음:크립2",
+          0.6208,
+          1
+        ],
+        [
+          "합주녹음:Ready get set",
+          0.6383,
+          -2
+        ],
+        [
+          "뮤즈벙:neutron 3",
+          0.6402,
+          2
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.6551,
+          -1
+        ]
+      ]
+    },
+    "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon": {
+      "best": "1030:해초_01",
+      "best_cost": 0.5292,
+      "best_shift": 0,
+      "direction": "rec_in_orig",
+      "second": "1030:멋진헛간_02",
+      "second_cost": 0.548,
+      "z_vs_others": -1.98,
+      "top5": [
+        [
+          "1030:해초_01",
+          0.5292,
+          0
+        ],
+        [
+          "1030:멋진헛간_02",
+          0.548,
+          0
+        ],
+        [
+          "1030:BeforeYouGo_02",
+          0.5494,
+          1
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.5603,
+          1
+        ],
+        [
+          "합주녹음:Ready get set",
+          0.5674,
+          0
+        ]
+      ]
+    },
+    "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op": {
+      "best": "1030:FarAway_01",
+      "best_cost": 0.5964,
+      "best_shift": 1,
+      "direction": "orig_in_rec",
+      "second": "1030:해초_01",
+      "second_cost": 0.5969,
+      "z_vs_others": -1.52,
+      "top5": [
+        [
+          "1030:FarAway_01",
+          0.5964,
+          1
+        ],
+        [
+          "1030:해초_01",
+          0.5969,
+          -1
+        ],
+        [
+          "합주녹음:103",
+          0.5999,
+          0
+        ],
+        [
+          "1030:HiBully_01",
+          0.6121,
+          -1
+        ],
+        [
+          "1030:BeforeYouGo_02",
+          0.6232,
+          2
+        ]
+      ]
+    },
+    "히카리:唱- Ado": {
+      "best": "1030:BeforeYouGo_02",
+      "best_cost": 0.5862,
+      "best_shift": 0,
+      "direction": "rec_in_orig",
+      "second": "1030:BeforeYouGo_01",
+      "second_cost": 0.6126,
+      "z_vs_others": -2.48,
+      "top5": [
+        [
+          "1030:BeforeYouGo_02",
+          0.5862,
+          0
+        ],
+        [
+          "1030:BeforeYouGo_01",
+          0.6126,
+          0
+        ],
+        [
+          "합주녹음:하늘을달리다",
+          0.6177,
+          1
+        ],
+        [
+          "1030:ThinkAboutChu_02",
+          0.6215,
+          0
+        ],
+        [
+          "합주녹음:103",
+          0.6255,
+          2
+        ]
+      ]
+    },
+    "히카리:神っぽいな - peenokioP ": {
+      "best": "합주녹음:Vlad3",
+      "best_cost": 0.5513,
+      "best_shift": 0,
+      "direction": "rec_in_orig",
+      "second": "1030:멋진헛간_02",
+      "second_cost": 0.6037,
+      "z_vs_others": -3.11,
+      "top5": [
+        [
+          "합주녹음:Vlad3",
+          0.5513,
+          0
+        ],
+        [
+          "1030:멋진헛간_02",
+          0.6037,
+          -1
+        ],
+        [
+          "1030:FarAway_01",
+          0.6087,
+          2
+        ],
+        [
+          "합주녹음:Ready get set",
+          0.6132,
+          2
+        ],
+        [
+          "합주녹음:103",
+          0.6203,
+          -2
+        ]
+      ]
+    }
+  },
+  "pairs": [
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.624,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.6073,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6655,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 281.4,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6028,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.5558,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6285,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.6512,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "1030:해초_01",
+      "cost": 0.6499,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.656,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.6705,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.6279,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.6653,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.6605,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6661,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:103",
+      "cost": 0.6506,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.7013,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 281.4,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.6835,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6639,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:크립2",
+      "cost": 0.684,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6749,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "tac(TaU)",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6343,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 281.4,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "자처",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.6012,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "자처",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.6108,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "자처",
+      "recording": "1030:FarAway_01",
+      "cost": 0.7014,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "자처",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6416,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "자처",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6078,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "자처",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6735,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "자처",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.7015,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "자처",
+      "recording": "1030:해초_01",
+      "cost": 0.6446,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "자처",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.7084,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "자처",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.6933,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "자처",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.6719,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "자처",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.6997,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "자처",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.7275,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "자처",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.636,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:103",
+      "cost": 0.6968,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.6496,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.5488,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6231,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:크립2",
+      "cost": 0.5415,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 273.4,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6613,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "자처",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6372,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 273.4,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.5911,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.5891,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6364,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6355,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6358,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6954,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.5675,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "1030:해초_01",
+      "cost": 0.5562,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.697,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.609,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.6853,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.6016,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.6474,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6508,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:103",
+      "cost": 0.5889,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.6342,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.6381,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6507,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:크립2",
+      "cost": 0.6375,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 244.0,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6764,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "n103(악보폴더)",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6764,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 244.0,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.5658,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.5466,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6155,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6203,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6815,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6065,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.4895,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "1030:해초_01",
+      "cost": 0.5518,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.6717,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.7461,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.6919,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.5692,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.6558,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6018,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:103",
+      "cost": 0.6863,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.5739,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.6463,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6209,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:크립2",
+      "cost": 0.7149,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 225.5,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6314,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "히카리:02. Rewrite",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.577,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 225.5,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.6551,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.67,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6731,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:HiBully_01",
+      "cost": 0.7047,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.7257,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6577,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.7631,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "1030:해초_01",
+      "cost": 0.7044,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.6663,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.6402,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.7413,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.7534,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.6681,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6886,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:103",
+      "cost": 0.6133,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.6383,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.7444,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 202.8,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.7257,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:크립2",
+      "cost": 0.6208,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 202.8,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6906,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "히카리:Ado _「시끄러워(うっせぇわ)」",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6896,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 202.8,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.5603,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.5494,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6294,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:HiBully_01",
+      "cost": 0.647,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6339,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6271,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.548,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "1030:해초_01",
+      "cost": 0.5292,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.6957,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.5854,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.6655,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.5843,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.7261,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6324,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:103",
+      "cost": 0.6292,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.5674,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.5899,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6462,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:크립2",
+      "cost": 0.6716,
+      "shift": -2,
+      "direction": "rec_in_orig",
+      "orig_sec": 238.1,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6752,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6243,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 238.1,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.6296,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.6232,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 193.7,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:FarAway_01",
+      "cost": 0.5964,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6121,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6762,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6369,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.6336,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "1030:해초_01",
+      "cost": 0.5969,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.6834,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.7354,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.7327,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 193.7,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.6832,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.6824,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.7195,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:103",
+      "cost": 0.5999,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.6504,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.6893,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 193.7,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6311,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:크립2",
+      "cost": 0.6432,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 193.7,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6884,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6266,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 193.7,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.6126,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.5862,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 189.4,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6535,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6302,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 189.4,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6215,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.6375,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.6551,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "1030:해초_01",
+      "cost": 0.648,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.6537,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.6746,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.6348,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 189.4,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.7239,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.6587,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6415,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:103",
+      "cost": 0.6255,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.6502,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.6907,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 189.4,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6664,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:크립2",
+      "cost": 0.6668,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 189.4,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6375,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "히카리:唱- Ado",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6177,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 189.4,
+      "rec_sec": 255.5
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:BeforeYouGo_01",
+      "cost": 0.6809,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 225.4
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:BeforeYouGo_02",
+      "cost": 0.7229,
+      "shift": 1,
+      "direction": "rec_in_orig",
+      "orig_sec": 203.7,
+      "rec_sec": 216.4
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:FarAway_01",
+      "cost": 0.6087,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 297.8
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:HiBully_01",
+      "cost": 0.6754,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 187.5
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:ThinkAboutChu_02",
+      "cost": 0.6531,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 307.6
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:라쿠나벙-존",
+      "cost": 0.654,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 252.2
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:멋진헛간_02",
+      "cost": 0.6037,
+      "shift": -1,
+      "direction": "rec_in_orig",
+      "orig_sec": 203.7,
+      "rec_sec": 238.4
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "1030:해초_01",
+      "cost": 0.6453,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 222.1
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "뮤즈벙:hysteria 2",
+      "cost": 0.6575,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 225.9
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "뮤즈벙:neutron 3",
+      "cost": 0.6479,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 242.0
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "뮤즈벙:panic station 3",
+      "cost": 0.725,
+      "shift": 2,
+      "direction": "rec_in_orig",
+      "orig_sec": 203.7,
+      "rec_sec": 183.9
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "뮤즈벙:plug in baby 4",
+      "cost": 0.6559,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 204.5
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "뮤즈벙:psycho 3",
+      "cost": 0.7004,
+      "shift": 0,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 305.7
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "뮤즈벙:supermassive 2",
+      "cost": 0.6831,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 214.5
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:103",
+      "cost": 0.6203,
+      "shift": -2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 257.6
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:Ready get set",
+      "cost": 0.6132,
+      "shift": 2,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 380.2
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:Vlad3",
+      "cost": 0.5513,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 203.7,
+      "rec_sec": 135.1
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:원피스3",
+      "cost": 0.6607,
+      "shift": 1,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 270.6
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:크립2",
+      "cost": 0.719,
+      "shift": 0,
+      "direction": "rec_in_orig",
+      "orig_sec": 203.7,
+      "rec_sec": 137.1
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:파도 2",
+      "cost": 0.6669,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 292.6
+    },
+    {
+      "original": "히카리:神っぽいな - peenokioP ",
+      "recording": "합주녹음:하늘을달리다",
+      "cost": 0.6364,
+      "shift": -1,
+      "direction": "orig_in_rec",
+      "orig_sec": 203.7,
+      "rec_sec": 255.5
+    }
+  ]
+}

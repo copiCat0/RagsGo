@@ -1,0 +1,321 @@
+{
+  "note": "진단용. 오프라인 DTW 결과이며 정답이 아니다.",
+  "pair_cost_best_shift": {
+    "original=tac rehearsal=tac": {
+      "shift": 0,
+      "cost": 0.5604
+    },
+    "original=tac rehearsal=n103": {
+      "shift": 2,
+      "cost": 0.7243
+    },
+    "original=n103 rehearsal=tac": {
+      "shift": 1,
+      "cost": 0.6423
+    },
+    "original=n103 rehearsal=n103": {
+      "shift": 1,
+      "cost": 0.5993
+    }
+  },
+  "key_shift_cost": {
+    "tac": {
+      "best": 0,
+      "costs": {
+        "-2": 0.7116,
+        "-1": 0.8247,
+        "0": 0.5604,
+        "1": 0.8,
+        "2": 0.7096
+      }
+    },
+    "n103": {
+      "best": 1,
+      "costs": {
+        "-2": 0.7549,
+        "-1": 0.8364,
+        "0": 0.7616,
+        "1": 0.5993,
+        "2": 0.868
+      }
+    }
+  },
+  "songs": {
+    "tac": {
+      "original_used_from_sec": 0.25,
+      "original_used_to_sec": 277.05,
+      "live_song_start_sec": 3.95,
+      "live_song_end_sec": 281.35,
+      "original_len_sec": 276.9,
+      "live_song_len_sec": 277.5,
+      "tempo_ratio_live_over_original": 1.002,
+      "mean_path_cost": 0.5937,
+      "blocks_10s": [
+        {
+          "original_from_sec": 0.2,
+          "slope": 0.944,
+          "mean_cost": 0.565
+        },
+        {
+          "original_from_sec": 10.2,
+          "slope": 1.051,
+          "mean_cost": 0.62
+        },
+        {
+          "original_from_sec": 20.2,
+          "slope": 0.99,
+          "mean_cost": 0.586
+        },
+        {
+          "original_from_sec": 30.2,
+          "slope": 1.01,
+          "mean_cost": 0.564
+        },
+        {
+          "original_from_sec": 40.2,
+          "slope": 1.01,
+          "mean_cost": 0.561
+        },
+        {
+          "original_from_sec": 50.2,
+          "slope": 1.035,
+          "mean_cost": 0.493
+        },
+        {
+          "original_from_sec": 60.2,
+          "slope": 0.96,
+          "mean_cost": 0.525
+        },
+        {
+          "original_from_sec": 70.2,
+          "slope": 1.04,
+          "mean_cost": 0.483
+        },
+        {
+          "original_from_sec": 80.2,
+          "slope": 0.975,
+          "mean_cost": 0.675
+        },
+        {
+          "original_from_sec": 90.2,
+          "slope": 0.96,
+          "mean_cost": 0.524
+        },
+        {
+          "original_from_sec": 100.2,
+          "slope": 0.848,
+          "mean_cost": 0.564
+        },
+        {
+          "original_from_sec": 110.2,
+          "slope": 1.081,
+          "mean_cost": 0.7
+        },
+        {
+          "original_from_sec": 120.2,
+          "slope": 1.081,
+          "mean_cost": 0.522
+        },
+        {
+          "original_from_sec": 130.2,
+          "slope": 1.01,
+          "mean_cost": 0.567
+        },
+        {
+          "original_from_sec": 140.2,
+          "slope": 1.01,
+          "mean_cost": 0.655
+        },
+        {
+          "original_from_sec": 150.2,
+          "slope": 1.02,
+          "mean_cost": 0.67
+        },
+        {
+          "original_from_sec": 160.2,
+          "slope": 0.97,
+          "mean_cost": 0.588
+        },
+        {
+          "original_from_sec": 170.2,
+          "slope": 1.04,
+          "mean_cost": 0.478
+        },
+        {
+          "original_from_sec": 180.2,
+          "slope": 0.96,
+          "mean_cost": 0.452
+        },
+        {
+          "original_from_sec": 190.2,
+          "slope": 0.944,
+          "mean_cost": 0.541
+        },
+        {
+          "original_from_sec": 200.2,
+          "slope": 1.061,
+          "mean_cost": 0.672
+        },
+        {
+          "original_from_sec": 210.2,
+          "slope": 1.177,
+          "mean_cost": 0.718
+        },
+        {
+          "original_from_sec": 220.2,
+          "slope": 0.864,
+          "mean_cost": 0.612
+        },
+        {
+          "original_from_sec": 230.2,
+          "slope": 0.97,
+          "mean_cost": 0.577
+        },
+        {
+          "original_from_sec": 240.2,
+          "slope": 1.015,
+          "mean_cost": 0.715
+        },
+        {
+          "original_from_sec": 250.2,
+          "slope": 1.101,
+          "mean_cost": 0.7
+        },
+        {
+          "original_from_sec": 260.2,
+          "slope": 0.909,
+          "mean_cost": 0.69
+        }
+      ],
+      "key_shift_semitones": 0
+    },
+    "n103": {
+      "original_used_from_sec": 2.05,
+      "original_used_to_sec": 241.25,
+      "live_song_start_sec": 0.35,
+      "live_song_end_sec": 227.75,
+      "original_len_sec": 239.3,
+      "live_song_len_sec": 227.5,
+      "tempo_ratio_live_over_original": 0.951,
+      "mean_path_cost": 0.6393,
+      "blocks_10s": [
+        {
+          "original_from_sec": 2.0,
+          "slope": 0.697,
+          "mean_cost": 0.626
+        },
+        {
+          "original_from_sec": 12.1,
+          "slope": 0.803,
+          "mean_cost": 0.6
+        },
+        {
+          "original_from_sec": 22.1,
+          "slope": 0.955,
+          "mean_cost": 0.682
+        },
+        {
+          "original_from_sec": 32.0,
+          "slope": 0.737,
+          "mean_cost": 0.626
+        },
+        {
+          "original_from_sec": 42.0,
+          "slope": 0.677,
+          "mean_cost": 0.701
+        },
+        {
+          "original_from_sec": 52.0,
+          "slope": 0.778,
+          "mean_cost": 0.804
+        },
+        {
+          "original_from_sec": 62.0,
+          "slope": 0.859,
+          "mean_cost": 0.648
+        },
+        {
+          "original_from_sec": 72.0,
+          "slope": 1.313,
+          "mean_cost": 0.641
+        },
+        {
+          "original_from_sec": 82.0,
+          "slope": 0.995,
+          "mean_cost": 0.591
+        },
+        {
+          "original_from_sec": 92.0,
+          "slope": 0.667,
+          "mean_cost": 0.675
+        },
+        {
+          "original_from_sec": 102.0,
+          "slope": 0.803,
+          "mean_cost": 0.727
+        },
+        {
+          "original_from_sec": 112.0,
+          "slope": 0.631,
+          "mean_cost": 0.631
+        },
+        {
+          "original_from_sec": 122.0,
+          "slope": 0.5,
+          "mean_cost": 0.591
+        },
+        {
+          "original_from_sec": 132.1,
+          "slope": 0.556,
+          "mean_cost": 0.599
+        },
+        {
+          "original_from_sec": 142.1,
+          "slope": 1.258,
+          "mean_cost": 0.658
+        },
+        {
+          "original_from_sec": 152.1,
+          "slope": 0.934,
+          "mean_cost": 0.635
+        },
+        {
+          "original_from_sec": 162.1,
+          "slope": 1.636,
+          "mean_cost": 0.51
+        },
+        {
+          "original_from_sec": 172.1,
+          "slope": 1.449,
+          "mean_cost": 0.69
+        },
+        {
+          "original_from_sec": 182.1,
+          "slope": 1.404,
+          "mean_cost": 0.665
+        },
+        {
+          "original_from_sec": 192.1,
+          "slope": 1.141,
+          "mean_cost": 0.645
+        },
+        {
+          "original_from_sec": 202.1,
+          "slope": 1.323,
+          "mean_cost": 0.705
+        },
+        {
+          "original_from_sec": 212.1,
+          "slope": 0.879,
+          "mean_cost": 0.454
+        },
+        {
+          "original_from_sec": 222.1,
+          "slope": 0.929,
+          "mean_cost": 0.529
+        }
+      ],
+      "key_shift_semitones": 1
+    }
+  }
+}

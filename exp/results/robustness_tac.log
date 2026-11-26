@@ -1,0 +1,13 @@
+clean f70 0.969 num 1.0 pages ok 5 /5 | bars ok 95 manual 0 early 0 late 0 | no gate: ok 95 late 0
+phone f70 0.967 num 1.0 pages ok 5 /5 | bars ok 95 manual 0 early 0 late 0 | no gate: ok 95 late 0
+phone+agc f70 0.962 num 1.0 pages ok 5 /5 | bars ok 93 manual 2 early 0 late 0 | no gate: ok 95 late 0
+noise_snr10 f70 0.969 num 0.83 pages ok 4 /5 | bars ok 78 manual 4 early 0 late 13 | no gate: ok 79 late 13
+/Users/iwonjun/Documents/03_개인/60_사이드프로젝트/RagsGO/exp/.venv/lib/python3.12/site-packages/numpy/_core/fromnumeric.py:3862: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/Users/iwonjun/Documents/03_개인/60_사이드프로젝트/RagsGO/exp/.venv/lib/python3.12/site-packages/numpy/_core/_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+noise_snr0 f70 0.789 num nan pages ok 0 /5 | bars ok 0 manual 0 early 0 late 0 | no gate: ok 0 late 0
+quiet_-20dB f70 0.967 num 1.0 pages ok 5 /5 | bars ok 95 manual 0 early 0 late 0 | no gate: ok 95 late 0
+tempo_x1.05 f70 0.929 num 1.0 pages ok 5 /5 | bars ok 88 manual 7 early 0 late 0 | no gate: ok 95 late 0
+tempo_x0.95 f70 0.952 num 1.0 pages ok 5 /5 | bars ok 86 manual 9 early 0 late 0 | no gate: ok 95 late 0
+worst f70 0.86 num 0.799 pages ok 2 /5 | bars ok 37 manual 48 early 0 late 10 | no gate: ok 78 late 12

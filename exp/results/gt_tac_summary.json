@@ -1,0 +1,38 @@
+{
+  "tempo_bpm_autocorr": 84.957,
+  "dp_beats": 376,
+  "dp_first": 0.273,
+  "dp_last": 265.015,
+  "linear_period_s": 0.70605,
+  "linear_bpm": 84.979,
+  "linear_resid_std_ms": 9.8,
+  "n_beats_score": 392,
+  "grid": "linear",
+  "kick_by_beat_in_bar": [
+    3.31,
+    0.52,
+    3.26,
+    0.54
+  ],
+  "gt_method": "count (DP 박 0번부터 차례로)",
+  "live_tempo_bpm_autocorr": 85.193,
+  "live_dp_beats": 425,
+  "live_dp_ibi_min_max": [
+    0.65,
+    0.813
+  ],
+  "not_interpolated_fraction": 1.0,
+  "n_interp": 0,
+  "mapped_minus_gt_ms": {
+    "median": -2.4,
+    "p90_abs": 1141.6,
+    "max_abs": 2952.8,
+    "median_first_half": -27.4,
+    "median_second_half": 26.3
+  },
+  "order_inversions": 0,
+  "live_song_first_beat_sec": 3.825,
+  "live_song_last_beat_sec": 279.853,
+  "live_dp_beats_after_song": 33,
+  "live_dp_beats_before_song": 0
+}

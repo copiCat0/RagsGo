@@ -1,0 +1,49 @@
+[     0s] original tac(TaU): 281.4s
+[     2s] original 자처: 273.4s
+[     3s] original n103(악보폴더): 244.0s
+[     9s] original 히카리:02. Rewrite: 225.5s
+[    14s] original 히카리:Ado _「시끄러워(うっせぇわ)」: 202.8s
+[    21s] original 히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon: 238.1s
+[    26s] original 히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op: 193.7s
+[    31s] original 히카리:唱- Ado: 189.4s
+[    36s] original 히카리:神っぽいな - peenokioP : 203.7s
+[    42s] recording 1030:BeforeYouGo_01: 225.4s
+[    48s] recording 1030:BeforeYouGo_02: 216.4s
+[    55s] recording 1030:FarAway_01: 297.8s
+[    60s] recording 1030:HiBully_01: 187.5s
+[    68s] recording 1030:ThinkAboutChu_02: 307.6s
+[    75s] recording 1030:라쿠나벙-존: 252.2s
+[    81s] recording 1030:멋진헛간_02: 238.4s
+[    87s] recording 1030:해초_01: 222.1s
+[    92s] recording 뮤즈벙:hysteria 2: 225.9s
+[    99s] recording 뮤즈벙:neutron 3: 242.0s
+[   103s] recording 뮤즈벙:panic station 3: 183.9s
+[   109s] recording 뮤즈벙:plug in baby 4: 204.5s
+[   117s] recording 뮤즈벙:psycho 3: 305.7s
+[   122s] recording 뮤즈벙:supermassive 2: 214.5s
+[   129s] recording 합주녹음:103: 257.6s
+[   138s] recording 합주녹음:Ready get set: 380.2s
+[   142s] recording 합주녹음:Vlad3: 135.1s
+[   149s] recording 합주녹음:원피스3: 270.6s
+[   152s] recording 합주녹음:크립2: 137.1s
+[   159s] recording 합주녹음:파도 2: 292.6s
+[   166s] recording 합주녹음:하늘을달리다: 255.5s
+[   177s] done tac(TaU)
+[   187s] done 자처
+[   197s] done n103(악보폴더)
+[   206s] done 히카리:02. Rewrite
+[   214s] done 히카리:Ado _「시끄러워(うっせぇわ)」
+[   224s] done 히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon
+[   231s] done 히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op
+[   239s] done 히카리:唱- Ado
+[   247s] done 히카리:神っぽいな - peenokioP 
+tac(TaU) -> 1030:ThinkAboutChu_02 0.5558 shift 0 z -3.87 | 2nd 1030:HiBully_01 0.6028
+자처 -> 합주녹음:크립2 0.5415 shift 2 z -2.62 | 2nd 합주녹음:Vlad3 0.5488
+n103(악보폴더) -> 1030:해초_01 0.5562 shift 2 z -2.22 | 2nd 1030:멋진헛간_02 0.5675
+히카리:02. Rewrite -> 1030:멋진헛간_02 0.4895 shift -2 z -2.51 | 2nd 1030:BeforeYouGo_02 0.5466
+히카리:Ado _「시끄러워(うっせぇわ)」 -> 합주녹음:103 0.6133 shift 2 z -1.95 | 2nd 합주녹음:크립2 0.6208
+히카리:anime-ost_naruto-shippuden-opening-16-silhouette-by-kana-boon -> 1030:해초_01 0.5292 shift 0 z -1.98 | 2nd 1030:멋진헛간_02 0.548
+히카리:anime-song_after-dark-asian-kungfu-generation-bleach-op -> 1030:FarAway_01 0.5964 shift 1 z -1.52 | 2nd 1030:해초_01 0.5969
+히카리:唱- Ado -> 1030:BeforeYouGo_02 0.5862 shift 0 z -2.48 | 2nd 1030:BeforeYouGo_01 0.6126
+히카리:神っぽいな - peenokioP  -> 합주녹음:Vlad3 0.5513 shift 0 z -3.11 | 2nd 1030:멋진헛간_02 0.6037
+total 247s
